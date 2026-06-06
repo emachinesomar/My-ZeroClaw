@@ -1,0 +1,1 @@
+cargo:rustc-env=MIME_TYPES_GENERATED_PATH=/root/zeroclaw/target/release/build/mime_guess-a36aae6111234d5b/out/mime_types_generated.rs

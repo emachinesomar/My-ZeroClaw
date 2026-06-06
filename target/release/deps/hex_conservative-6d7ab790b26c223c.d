@@ -1,0 +1,12 @@
+/root/zeroclaw/target/release/deps/hex_conservative-6d7ab790b26c223c.d: /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/hex-conservative-0.2.2/src/lib.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/hex-conservative-0.2.2/src/buf_encoder.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/hex-conservative-0.2.2/src/display.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/hex-conservative-0.2.2/src/error.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/hex-conservative-0.2.2/src/iter.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/hex-conservative-0.2.2/src/parse.rs
+
+/root/zeroclaw/target/release/deps/libhex_conservative-6d7ab790b26c223c.rlib: /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/hex-conservative-0.2.2/src/lib.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/hex-conservative-0.2.2/src/buf_encoder.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/hex-conservative-0.2.2/src/display.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/hex-conservative-0.2.2/src/error.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/hex-conservative-0.2.2/src/iter.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/hex-conservative-0.2.2/src/parse.rs
+
+/root/zeroclaw/target/release/deps/libhex_conservative-6d7ab790b26c223c.rmeta: /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/hex-conservative-0.2.2/src/lib.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/hex-conservative-0.2.2/src/buf_encoder.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/hex-conservative-0.2.2/src/display.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/hex-conservative-0.2.2/src/error.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/hex-conservative-0.2.2/src/iter.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/hex-conservative-0.2.2/src/parse.rs
+
+/root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/hex-conservative-0.2.2/src/lib.rs:
+/root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/hex-conservative-0.2.2/src/buf_encoder.rs:
+/root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/hex-conservative-0.2.2/src/display.rs:
+/root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/hex-conservative-0.2.2/src/error.rs:
+/root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/hex-conservative-0.2.2/src/iter.rs:
+/root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/hex-conservative-0.2.2/src/parse.rs:

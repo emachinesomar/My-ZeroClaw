@@ -1,0 +1,10 @@
+cargo:rerun-if-changed=web/src
+cargo:rerun-if-changed=web/public
+cargo:rerun-if-changed=web/index.html
+cargo:rerun-if-changed=web/package.json
+cargo:rerun-if-changed=web/package-lock.json
+cargo:rerun-if-changed=web/tsconfig.json
+cargo:rerun-if-changed=web/tsconfig.app.json
+cargo:rerun-if-changed=web/tsconfig.node.json
+cargo:rerun-if-changed=web/vite.config.ts
+cargo:rerun-if-changed=web/dist
