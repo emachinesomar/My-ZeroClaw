@@ -2,3 +2,4 @@
 zeroclaw_sync.log
 push_to_git.sh
 .DS_Store
+target/
